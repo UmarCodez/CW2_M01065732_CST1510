@@ -1,0 +1,7 @@
+_pycache_/
+*.pyc
+.venv
+.vscode/
+.idea/
+user.txt
+DATA
