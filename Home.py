@@ -3,6 +3,7 @@ from hashing import generate_hash, is_valid_hash
 from app.db import get_connection
 from app.users import add_user, get_user
 
+#INSERT INTO TERMINAL TO VIEW STREAMLIT WEBSITE: python -m streamlit run Home.py
 
 conn = get_connection()
 
